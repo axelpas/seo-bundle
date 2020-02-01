@@ -1,5 +1,5 @@
 {
-    "name": "norsys/seo-bundle",
+    "name": "axelpas/seo-bundle",
     "description": "Handle SEO metatags config & rendering",
     "type": "symfony-bundle",
     "license": "MIT",
