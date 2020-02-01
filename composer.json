@@ -27,7 +27,7 @@
         "symfony/http-kernel": "^3.1.0|^4.0",
         "symfony/framework-bundle": "^3.1.0|^4.0",
         "symfony/yaml": "2.*|~3.0|^4.0",
-        "symfony/dependency-injection": "^3.1.0",
+        "symfony/dependency-injection": "^3.1.0|^4.0",
         "symfony/templating": "^3.1.0|^4.0",
         "symfony/expression-language": "^3.1.0|^4.0",
         "symfony/translation": "^3.1.0|^4.0"
